@@ -1,0 +1,20 @@
+html {
+    font-size:  22px; 
+}
+body{
+    background: yellowgreen;
+    color: red;
+}
+
+table, tr, th, td, caption {
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+h1{
+    align-items: center;
+    padding: 15px;
+    background-color: yellowgreen;
+    text-align: center;
+}
